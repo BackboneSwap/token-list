@@ -1,8 +1,8 @@
 {
-    "name": "Apple Swap",
-    "logoURI": "https://raw.githubusercontent.com/appleswapdev/token-list/main/assets/apple.png",
+    "name": "Backbone Swap",
+    "logoURI": "https://raw.githubusercontent.com/BackboneSwap/token-list/main/assets/BBS.png",
     "keywords": [
-        "appleswap",
+        "backboneswap",
         "defi"
     ],
     "timestamp": "2022-02-14T14:00:00.000+00:00",
@@ -10,10 +10,10 @@
         {
             "chainId": 56,
             "address": "0x8e03e380E6ac69B76DE7590d67296a7Eb1fFcd59",
-            "name": "Apple Token",
-            "symbol": "APPLE",
+            "name": "Backbone Token",
+            "symbol": "BBS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/appleswapdev/token-list/main/assets/apple.png"
+            "logoURI": "https://raw.githubusercontent.com/BackboneSwap/token-list/main/assets/BBS.png"
         },
         {
             "chainId": 56,
