@@ -21,7 +21,7 @@
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/appleswapdev/token-list/main/assets/USDT.svg"
+            "logoURI": "https://raw.githubusercontent.com/BackboneSwap/token-list/main/assets/USDT.svg"
         }
     ],
     "version": {
