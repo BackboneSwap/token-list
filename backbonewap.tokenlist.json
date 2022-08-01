@@ -1,6 +1,6 @@
 {
     "name": "Backbone Swap",
-    "logoURI": "https://raw.githubusercontent.com/BackboneSwap/token-list/main/assets/BBS.png?token=GHSAT0AAAAAABWQILKW7G2XNIMQR7HWCO2OYXH3IIA",
+    "logoURI": "https://raw.githubusercontent.com/BackboneSwap/token-list/main/assets/BBS.png",
     "keywords": [
         "backboneswap",
         "defi"
@@ -13,7 +13,7 @@
             "name": "Backbone Token",
             "symbol": "BBS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/BackboneSwap/token-list/main/assets/BBS.png?token=GHSAT0AAAAAABWQILKW7G2XNIMQR7HWCO2OYXH3IIA"
+            "logoURI": "https://raw.githubusercontent.com/BackboneSwap/token-list/main/assets/BBS.png"
         },
         {
             "chainId": 56,
@@ -21,7 +21,7 @@
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/BackboneSwap/token-list/main/assets/USDT.svg?token=GHSAT0AAAAAABWQILKX5UM5PQFZ5EUSLXBYYXH3IZQ"
+            "logoURI": "https://raw.githubusercontent.com/BackboneSwap/token-list/main/assets/USDT.svg"
         }
     ],
     "version": {
