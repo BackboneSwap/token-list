@@ -8,16 +8,16 @@
     "timestamp": "2022-02-14T14:00:00.000+00:00",
     "tokens": [
         {
-            "chainId": 56,
-            "address": "0x8e03e380E6ac69B76DE7590d67296a7Eb1fFcd59",
+            "chainId": 16888,
+            "address": "0xf379AB57d93643A0138C4E0A51B42C72438b5bb5",
             "name": "Backbone Token",
             "symbol": "BBS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/BackboneSwap/token-list/main/assets/BBS.png"
         },
         {
-            "chainId": 56,
-            "address": "0x55d398326f99059fF775485246999027B3197955",
+            "chainId": 16888,
+            "address": "0x6278deEA74Cd056a8b4a6aeA4d24bae96844dbdf",
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 18,
