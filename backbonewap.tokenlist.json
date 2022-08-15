@@ -17,9 +17,9 @@
         },
         {
             "chainId": 88888,
-            "address": "0xcDb102d39E447Cc10c703558C43b0D1034A2e5de",
-            "name": "EVENTA Token",
-            "symbol": "EVT",
+            "address": "0x0C19A7010b64fA175785c629E8e8700f8654C656",
+            "name": "BBS Token",
+            "symbol": "BBS",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/BackboneSwap/token-list/main/assets/USDT.svg"
         }
