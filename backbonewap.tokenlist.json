@@ -5,8 +5,24 @@
         "backboneswap",
         "defi"
     ],
-    "timestamp": "2022-02-14T14:00:00.000+00:00",
+    "timestamp": "2022-08-16T14:00:00.000+00:00",
     "tokens": [
+        {
+            "chainId": 16888,
+            "address": "0x6278deEA74Cd056a8b4a6aeA4d24bae96844dbdf",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/BackboneSwap/token-list/main/assets/USDT.svg"
+        },
+        {
+            "chainId": 16888,
+            "address": "0xf379AB57d93643A0138C4E0A51B42C72438b5bb5",
+            "name": "Backbone Token",
+            "symbol": "BBS",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/BackboneSwap/token-list/main/assets/BBS.png"
+        },        
         {
             "chainId": 88888,
             "address": "0xB3A1ae93eEd6808a3a4b4AF2c9D197085Ebe3f03",
@@ -21,7 +37,7 @@
             "name": "BBS",
             "symbol": "BBS",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/BackboneSwap/token-list/main/assets/USDT.svg"
+            "logoURI": "https://raw.githubusercontent.com/BackboneSwap/token-list/main/assets/BBS.png"
         }
     ],
     "version": {
